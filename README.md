@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+react, react-dom, next, typescript, @types/react, @types/node, @types/react-dom, tailwindcss, postcss, autoprefixer, eslint, eslint-config-next, daisy UI, 
+
 ## Getting Started
 
 First, run the development server:

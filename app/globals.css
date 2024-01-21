@@ -2,7 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+  }
+}
+
 body {
-  color: rgb(var(--foreground-rgb));
   padding: 1rem
 }
